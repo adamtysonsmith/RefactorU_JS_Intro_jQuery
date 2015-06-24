@@ -1,0 +1,17 @@
+
+.giant-button {
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 150px;
+}
+
+.popup {
+    width: 90%;
+    height: 90%;
+    border: 10px solid gray;
+    position: fixed;
+    top: 5%;
+    left: 5%;
+    background-color: aquamarine;
+}
